@@ -43,6 +43,13 @@
                 "style": "secondary",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "logo": "/images/WEBSITE-LOGO-REAL-white.png"
