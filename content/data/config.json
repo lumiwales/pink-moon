@@ -26,16 +26,16 @@
                 "style": "link"
             },
             {
-                "label": "Contact Us",
-                "url": "/contact",
-                "style": "primary"
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "#",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Contact Us",
+                "url": "/contact",
+                "style": "primary"
             }
         ],
         "logo": "/images/WEBSITE-LOGO-REAL-white.png"
