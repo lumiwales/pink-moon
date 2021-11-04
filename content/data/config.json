@@ -33,7 +33,7 @@
                 "no_follow": false
             },
             {
-                "label": "Contact Us",
+                "label": "Sign Up ",
                 "url": "/contact",
                 "style": "primary"
             },
