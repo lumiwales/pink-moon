@@ -78,7 +78,7 @@
     backface-visibility: hidden;
     background-color: $color-bg;
     bottom: 0;
-    Left: 100%;
+    right: -100%;
     max-width: $width-xs;
     -webkit-overflow-scrolling: touch;
     position: fixed;
