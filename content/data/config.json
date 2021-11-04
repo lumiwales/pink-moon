@@ -8,7 +8,7 @@
             {
                 "label": "Plan",
                 "url": "/features",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "Blog",
