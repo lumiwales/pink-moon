@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Get Your
+    title: Get your Money Working
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
